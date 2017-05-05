@@ -81,6 +81,8 @@ public class SecondCommand extends ContextCommand {
         ImageConverter(ImagePlus imp);
         ij.process.ImageConverter truc = 
         
+        be voyons
+        
         ImageProcessor input2 = input.getMask();
         //Object input2 = opService.run("convert.bit", input);
 */
