@@ -1,0 +1,1 @@
+{"class":"DefaultDataService","values":{"priority":10.0,"type":"org.scijava.service.SciJavaService"}}{"class":"PluginDetails","values":{"label":"Details","type":"InterfaceActionPlugin"}}{"class":"PluginOpen","values":{"label":"Open","type":"InterfaceActionPlugin"}}{"class":"PluginSortByName","values":{"label":"Sort by Name","type":"InterfaceActionPlugin"}}
